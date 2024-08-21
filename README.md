@@ -98,11 +98,3 @@ Kiwi 浏览器（Android） | [Tampermonkey][Tampermonkey]
 原项目：[qq sec/汉化vercel](https://greasyfork.org/zh-CN/scripts/473850-汉化vercel) 
 
 项目模版：[maboloshi/github-chinese](https://github.com/maboloshi/github-chinese)
-
-### 感谢所有贡献者
-
-一如既往，感谢我们出色的贡献者❤️！
-
-<!--GAMFC_DELIMITER--><!--GAMFC_DELIMITER-END-->
-
-贡献者列表，由 [GitHub Action](https://github.com/MCGA1976/VercelCN/blob/mian/.github/workflows/update_contributors_images.yml) 自动生成
