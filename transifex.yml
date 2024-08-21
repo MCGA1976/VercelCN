@@ -1,0 +1,12 @@
+git: 
+  filters:
+  - filter_type: file
+    source_file: en.js
+    file_format: js
+    translation_files_expression: '<lang>.js'
+    source_language: en
+
+settings: 
+  language_mapping:        
+     zh_CN: zh-CN
+     zh_TW: zh-tw
