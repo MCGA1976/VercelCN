@@ -13,8 +13,8 @@ jobs:
           filter-author: (renovate\[bot\]|renovate-bot|dependabot\[bot\])
           openDelimiter: '<!--GAMFC_DELIMITER-->'
           closeDelimiter: '<!--GAMFC_DELIMITER-END-->'
-          hideName: 'ture'
-          avatarSize: 90  # 头像尺码
+          hideName: 'true'
+          avatarSize: 100  # 头像尺码
       
       - name: 添加 htmlTable 到 README.md
         uses: jaywcjlove/github-action-modify-file-content@main
