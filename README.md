@@ -103,6 +103,6 @@ Kiwi 浏览器（Android） | [Tampermonkey][Tampermonkey]
 
 一如既往，感谢我们出色的贡献者❤️！
 
-<!--GAMFC_DELIMITER-->will be replaced here<!--GAMFC_DELIMITER-END-->
+<!--GAMFC_DELIMITER--><!--GAMFC_DELIMITER-END-->
 
 贡献者列表，由 [GitHub Action](https://github.com/MCGA1976/VercelCN/blob/mian/.github/workflows/update_contributors_images.yml) 自动生成
